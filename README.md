@@ -1,7 +1,7 @@
 # Diffrence-Arrays-ArrayLists
 import java.util.ArrayList;
 
-public class DifferenceArraysArrayLists {
+class DifferenceArraysArrayLists {
     public static void main(String[] args) {
         // Working with Arrays
         int[] numbersArray = new int[3]; // Fixed-size array
